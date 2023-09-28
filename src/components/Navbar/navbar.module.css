@@ -1,0 +1,29 @@
+.navbar {
+  background-color: rgb(30, 30, 30);
+  height: 5rem;
+  width: 100vw;
+  max-width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  position: sticky;
+  top: 0;
+  z-index: 3;
+}
+
+.logo {
+  object-fit: cover;
+  height: 5rem;
+  width: 15rem;
+  margin: 0.5rem 1rem;
+}
+
+.list {
+  diplay: flex;
+  justify-content: space-between;
+}
+
+.listitem {
+  color: white;
+  margin: 0 0.5rem;
+}

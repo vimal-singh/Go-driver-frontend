@@ -1,0 +1,48 @@
+.drop-menu {
+  margin: 1rem 1rem;
+  width: auto;
+}
+
+#menu {
+  display: flex;
+  flex-direction: column;
+  margin: 1rem 0.5rem;
+}
+
+#cars {
+  color: white;
+  margin: 0 1rem;
+}
+
+.dropmenu-item {
+  color: black;
+}
+
+.label {
+  color: white;
+}
+
+.menu-item {
+  margin: 1rem 0.5rem;
+}
+
+.form-control {
+  margin: 1rem 0.5rem;
+  display: flex;
+  flex-direction: column;
+}
+
+.visa {
+  margin: 1rem 0.5rem;
+  background-color: white;
+  width: 300px;
+}
+
+.menu-btn {
+  font-size: 1rem;
+  border-color: white;
+  border-radius: 0.5rem;
+  padding: 0.5rem 1rem;
+  background-color: white;
+  width: 100px;
+}
